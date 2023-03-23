@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: default;
+  }
+}
+
+.custom-img {
+  backgroung-image: url('https://i.postimg.cc/wj6xz2pW/heroclass.png')
+}
