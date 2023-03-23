@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/rpl-3/*": ["./*"]
+    }
+  }
+}
